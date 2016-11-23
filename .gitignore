@@ -1,0 +1,15 @@
+*~
+*.d
+*.o
+*.lo
+*.a
+*.so
+*.so.*
+*.out
+core*
+
+*.old
+old-*
+tmp*
+backup*
+trash
