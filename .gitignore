@@ -6,10 +6,9 @@
 *.so
 *.so.*
 *.out
-core*
+*.pyc
+*.kate-swp
+*.directory
+core
 
-*.old
-old-*
-tmp*
-backup*
-trash
+ode*
