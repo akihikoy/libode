@@ -1,12 +1,15 @@
 OVERVIEW
 ================
 This is an archive of Open Dynamics Engine.
+
 http://www.ode.org/
+
 The files are obtained from the above website.
 
 LICENSE
 ================
 Refer to the license of ODE:
+
 http://www.ode.org/ode-license.html
 
 INSTALLATION
@@ -37,5 +40,17 @@ Install ODE:
         $ make -j8
 
 Other configure options:
+
     --disable-asserts    Disabling assertions in execution.
 
+TEST
+================
+Run demos in ode/demo/
+
+Fun demos I like:
+
+    ode/demo/demo_chain1
+    ode/demo/demo_chain2
+    ode/demo/demo_buggy
+    ode/demo/demo_crash
+    ode/demo/demo_boxstack
